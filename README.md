@@ -13,11 +13,11 @@ Nesse projeto foi utilizado:
 - [Storybook](https://storybook.js.org/)
 
 
-## Projeto criado a partir dos componentes criados:
+## Projeto criado a partir dos componentes desenvolvidos:
 <img src=".github/aplicacao.png">
 
 ## Storybook:
 <img src=".github/storybook.png">
 
-## Acesse ao projeto e veja por contaprópria:
+## Acesse ao projeto e veja por conta própria:
 - [Deploy](https://savio-anjos.github.io/ignite-lab-design-system/)
