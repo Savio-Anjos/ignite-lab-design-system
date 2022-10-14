@@ -13,8 +13,10 @@ Nesse projeto foi utilizado:
 - [Storybook](https://storybook.js.org/)
 
 
-
+## Projeto criado a partir dos componentes criados:
 <img src=".github/aplicacao.png">
+
+## Storybook:
 <img src=".github/storybook.png">
 
 ## Acesse ao projeto e veja por contaprópria:
