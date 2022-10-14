@@ -17,5 +17,5 @@ Nesse projeto foi utilizado:
 <img src=".github/aplicacao.png">
 <img src=".github/storybook.png">
 
-### Deploy:
+## Acesse ao projeto e veja por contaprópria:
 - [Deploy](https://savio-anjos.github.io/ignite-lab-design-system/)
