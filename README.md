@@ -6,7 +6,7 @@
 <p>Esse é um design syatem feito a partir dos componentes criados no storybook.<p>
 
 ## 🚀 Tecnologias
-Nesse projeto foi utilizado:
+##### Nesse projeto foi utilizado:
 
 - [ViteJS](https://vitejs.dev/)
 - [Typescript](https://www.typescriptlang.org/)
