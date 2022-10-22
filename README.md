@@ -1,9 +1,9 @@
 
 <h1 align='center'>IgniteLab 3 - Design System</h1>
 <p align='center'>
-<img src="https://img.shields.io/github/repo-size/Savio-Anjos/ignite-lab-design-system?color=4f46e5">
-<img src="https://img.shields.io/github/languages/count/Savio-Anjos/ignite-lab-design-system?color=4f46e5">
-<img src="https://img.shields.io/github/last-commit/Savio-Anjos/ignite-lab-design-system?color=4f46e5">
+<img src="https://img.shields.io/github/repo-size/Savio-Anjos/ignite-lab-design-system?color=7e22ce">
+<img src="https://img.shields.io/github/languages/count/Savio-Anjos/ignite-lab-design-system?color=7e22ce">
+<img src="https://img.shields.io/github/last-commit/Savio-Anjos/ignite-lab-design-system?color=7e22ce">
 </p>
 
 
