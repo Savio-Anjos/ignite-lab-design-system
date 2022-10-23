@@ -12,7 +12,7 @@
 
 
 ## 🚀 Tecnologias
-##### Nesse projeto foi utilizado:
+##### Nesse projeto foi utilizado: 
 
 - [ViteJS](https://vitejs.dev/)
 - [Typescript](https://www.typescriptlang.org/)
