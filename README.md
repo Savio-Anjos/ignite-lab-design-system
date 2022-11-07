@@ -10,7 +10,7 @@
 ## 🔖 Descrição
 <p>Esse é um design system feito a partir dos componentes criados no storybook.<p>
 
-
+  
 ## 🚀 Tecnologias
 ##### Nesse projeto foi utilizado: 
 
