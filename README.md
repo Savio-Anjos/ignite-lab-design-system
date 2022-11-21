@@ -27,4 +27,3 @@
 
 ## Acesse ao projeto e veja por conta própria:
 ### - [Deploy](https://savio-anjos.github.io/ignite-lab-design-system/)
-           
